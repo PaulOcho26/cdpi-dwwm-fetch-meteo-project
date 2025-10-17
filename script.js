@@ -8,6 +8,12 @@ main();
 
 
 
+
+
+
+
+
+
 /**
  * S'execute quand l'utilisateur a accepté la geolocalisation.
  * 
